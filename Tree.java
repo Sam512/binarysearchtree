@@ -2,7 +2,7 @@
 public class Tree<E extends Comparable> {
 	Node<E> root;
 	public Tree() {
-		//root is already null but set it here if you want
+		//root is already null but set it to null again if you want
 	}
 	public Tree(E data) {
 		//init with data
